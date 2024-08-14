@@ -2,10 +2,10 @@
 ----------------------------
 
 #### about: 
-- Iam kadiyala baby rupa sri
-- studying in RVR&JC college of engineering
+- I am kadiyala Baby rupa sri
+- studying at Aston University
 
 #### personal details:
-**Name:** kadiyala baby rupa sri
+**Name:** kadiyala Baby rupa sri
 **Father's Name:** Kadiyala Prasad rao
-**address:** sangupalem koduru 
+**address:** Sangupalem Koduru 
